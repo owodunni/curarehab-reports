@@ -1,0 +1,41 @@
+[
+  {
+    "url": "http://localhost:4173/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
+    "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
+    "summary": {
+      "performance": 0.67,
+      "accessibility": 0.75,
+      "best-practices": 1,
+      "seo": 1,
+      "pwa": 0.33
+    }
+  },
+  {
+    "url": "http://localhost:4173/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
+    "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
+    "summary": {
+      "performance": 0.79,
+      "accessibility": 0.75,
+      "best-practices": 1,
+      "seo": 1,
+      "pwa": 0.33
+    }
+  },
+  {
+    "url": "http://localhost:4173/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
+    "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
+    "summary": {
+      "performance": 0.76,
+      "accessibility": 0.75,
+      "best-practices": 1,
+      "seo": 1,
+      "pwa": 0.33
+    }
+  }
+]
