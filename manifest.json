@@ -5,7 +5,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
     "summary": {
-      "performance": 0.99,
+      "performance": 0.75,
       "accessibility": 1,
       "best-practices": 1,
       "seo": 1,
@@ -18,7 +18,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
     "summary": {
-      "performance": 0.99,
+      "performance": 0.83,
       "accessibility": 1,
       "best-practices": 1,
       "seo": 1,
@@ -31,7 +31,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_blog.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_blog.report.json",
     "summary": {
-      "performance": 0.98,
+      "performance": 0.92,
       "accessibility": 1,
       "best-practices": 1,
       "seo": 1,
@@ -44,7 +44,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_blog.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_blog.report.json",
     "summary": {
-      "performance": 0.99,
+      "performance": 0.81,
       "accessibility": 1,
       "best-practices": 1,
       "seo": 1,
@@ -57,7 +57,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_blog_vulvodyni.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_blog_vulvodyni.report.json",
     "summary": {
-      "performance": 0.99,
+      "performance": 0.92,
       "accessibility": 1,
       "best-practices": 1,
       "seo": 1,
@@ -70,7 +70,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_blog_vulvodyni.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_blog_vulvodyni.report.json",
     "summary": {
-      "performance": 0.98,
+      "performance": 0.79,
       "accessibility": 1,
       "best-practices": 1,
       "seo": 1,
@@ -83,7 +83,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
     "summary": {
-      "performance": 0.99,
+      "performance": 0.82,
       "accessibility": 1,
       "best-practices": 1,
       "seo": 1,
@@ -96,7 +96,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_blog.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_blog.report.json",
     "summary": {
-      "performance": 0.99,
+      "performance": 0.86,
       "accessibility": 1,
       "best-practices": 1,
       "seo": 1,
@@ -109,7 +109,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_blog_vulvodyni.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_blog_vulvodyni.report.json",
     "summary": {
-      "performance": 0.98,
+      "performance": 0.79,
       "accessibility": 1,
       "best-practices": 1,
       "seo": 1,
