@@ -5,10 +5,10 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
     "summary": {
-      "performance": 0.99,
-      "accessibility": 0.97,
+      "performance": 0.97,
+      "accessibility": 0.87,
       "best-practices": 0.83,
-      "seo": 1,
+      "seo": 0.92,
       "pwa": 0.78
     }
   },
@@ -17,36 +17,36 @@
     "isRepresentativeRun": false,
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
+    "summary": {
+      "performance": 0.94,
+      "accessibility": 0.87,
+      "best-practices": 0.83,
+      "seo": 0.92,
+      "pwa": 0.78
+    }
+  },
+  {
+    "url": "http://localhost:4173/artiklar",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.html",
+    "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.json",
+    "summary": {
+      "performance": 0.97,
+      "accessibility": 0.97,
+      "best-practices": 0.83,
+      "seo": 0.98,
+      "pwa": 0.78
+    }
+  },
+  {
+    "url": "http://localhost:4173/artiklar",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.html",
+    "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.json",
     "summary": {
       "performance": 0.95,
       "accessibility": 0.97,
       "best-practices": 0.83,
-      "seo": 1,
-      "pwa": 0.78
-    }
-  },
-  {
-    "url": "http://localhost:4173/artiklar",
-    "isRepresentativeRun": false,
-    "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.html",
-    "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.json",
-    "summary": {
-      "performance": 0.98,
-      "accessibility": 0.97,
-      "best-practices": 0.83,
-      "seo": 0.98,
-      "pwa": 0.78
-    }
-  },
-  {
-    "url": "http://localhost:4173/artiklar",
-    "isRepresentativeRun": false,
-    "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.html",
-    "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.json",
-    "summary": {
-      "performance": 0.96,
-      "accessibility": 0.97,
-      "best-practices": 0.83,
       "seo": 0.98,
       "pwa": 0.78
     }
@@ -58,9 +58,9 @@
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
     "summary": {
       "performance": 0.96,
-      "accessibility": 0.97,
+      "accessibility": 0.87,
       "best-practices": 0.83,
-      "seo": 1,
+      "seo": 0.92,
       "pwa": 0.78
     }
   },
@@ -70,7 +70,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.json",
     "summary": {
-      "performance": 0.96,
+      "performance": 0.97,
       "accessibility": 0.97,
       "best-practices": 0.83,
       "seo": 0.98,
