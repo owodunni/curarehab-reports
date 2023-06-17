@@ -5,7 +5,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
     "summary": {
-      "performance": 0.94,
+      "performance": 0.85,
       "accessibility": 0.97,
       "best-practices": 1,
       "seo": 1,
@@ -18,7 +18,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
     "summary": {
-      "performance": 0.95,
+      "performance": 0.94,
       "accessibility": 0.97,
       "best-practices": 1,
       "seo": 1,
@@ -31,7 +31,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.json",
     "summary": {
-      "performance": 0.95,
+      "performance": 0.97,
       "accessibility": 0.97,
       "best-practices": 1,
       "seo": 1,
