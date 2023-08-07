@@ -5,7 +5,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
     "summary": {
-      "performance": 0.85,
+      "performance": 0.83,
       "accessibility": 0.97,
       "best-practices": 1,
       "seo": 1,
@@ -18,7 +18,20 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
     "summary": {
-      "performance": 0.87,
+      "performance": 0.86,
+      "accessibility": 0.97,
+      "best-practices": 1,
+      "seo": 1,
+      "pwa": 0.78
+    }
+  },
+  {
+    "url": "http://localhost:4173/artiklar",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.html",
+    "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.json",
+    "summary": {
+      "performance": 0.93,
       "accessibility": 0.97,
       "best-practices": 1,
       "seo": 1,
@@ -39,25 +52,12 @@
     }
   },
   {
-    "url": "http://localhost:4173/artiklar",
-    "isRepresentativeRun": false,
-    "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.html",
-    "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.json",
-    "summary": {
-      "performance": 0.91,
-      "accessibility": 0.97,
-      "best-practices": 1,
-      "seo": 1,
-      "pwa": 0.78
-    }
-  },
-  {
     "url": "http://localhost:4173/",
     "isRepresentativeRun": true,
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_.report.json",
     "summary": {
-      "performance": 0.87,
+      "performance": 0.86,
       "accessibility": 0.97,
       "best-practices": 1,
       "seo": 1,
@@ -70,7 +70,7 @@
     "htmlPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.html",
     "jsonPath": "/home/runner/work/curarehab/curarehab/packages/web/build/lighthouse/_artiklar.report.json",
     "summary": {
-      "performance": 0.92,
+      "performance": 0.84,
       "accessibility": 0.97,
       "best-practices": 1,
       "seo": 1,
