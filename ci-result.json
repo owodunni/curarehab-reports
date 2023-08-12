@@ -82,7 +82,7 @@
   {
     "path": "/en/behandlingar/fysioterapi-sjukgymnastik",
     "score": 1,
-    "performance": 1,
+    "performance": 0.98,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -170,7 +170,7 @@
   {
     "path": "/om",
     "score": 0.97,
-    "performance": 0.91,
+    "performance": 0.9,
     "accessibility": 0.98,
     "best-practices": 1,
     "seo": 1
