@@ -40,14 +40,6 @@
     "seo": 1
   },
   {
-    "path": "/behandlingar/medicinsk-akupunktur",
-    "score": 0.99,
-    "performance": 1,
-    "accessibility": 0.97,
-    "best-practices": 1,
-    "seo": 1
-  },
-  {
     "path": "/behandlingar/naprapatbehandling",
     "score": 0.99,
     "performance": 1,
@@ -89,14 +81,6 @@
   },
   {
     "path": "/en/behandlingar/massage",
-    "score": 0.99,
-    "performance": 1,
-    "accessibility": 0.97,
-    "best-practices": 1,
-    "seo": 1
-  },
-  {
-    "path": "/en/behandlingar/medicinsk-akupunktur",
     "score": 0.99,
     "performance": 1,
     "accessibility": 0.97,
