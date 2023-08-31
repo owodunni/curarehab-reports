@@ -113,11 +113,11 @@
   },
   {
     "path": "/en/terapeuter",
-    "score": 0.97,
+    "score": 0.98,
     "performance": 1,
-    "accessibility": 0.97,
+    "accessibility": 1,
     "best-practices": 1,
-    "seo": 0.92
+    "seo": 0.91
   },
   {
     "path": "/en/terapeuter/andreas-palmqvist",
@@ -131,7 +131,7 @@
     "path": "/en/terapeuter/david-bringner",
     "score": 0.99,
     "performance": 1,
-    "accessibility": 0.94,
+    "accessibility": 0.97,
     "best-practices": 1,
     "seo": 1
   },
@@ -139,15 +139,15 @@
     "path": "/en/terapeuter/emmy-jarden",
     "score": 0.99,
     "performance": 1,
-    "accessibility": 0.94,
+    "accessibility": 0.97,
     "best-practices": 1,
     "seo": 1
   },
   {
     "path": "/hitta",
-    "score": 0.98,
+    "score": 0.99,
     "performance": 1,
-    "accessibility": 0.93,
+    "accessibility": 0.96,
     "best-practices": 1,
     "seo": 1
   },
@@ -155,15 +155,15 @@
     "path": "/om",
     "score": 0.97,
     "performance": 0.91,
-    "accessibility": 0.95,
+    "accessibility": 0.98,
     "best-practices": 1,
     "seo": 1
   },
   {
     "path": "/terapeuter",
-    "score": 0.97,
+    "score": 0.98,
     "performance": 1,
-    "accessibility": 0.97,
+    "accessibility": 1,
     "best-practices": 1,
     "seo": 0.92
   },
@@ -171,7 +171,7 @@
     "path": "/terapeuter/andreas-palmqvist",
     "score": 0.99,
     "performance": 1,
-    "accessibility": 0.94,
+    "accessibility": 0.97,
     "best-practices": 1,
     "seo": 1
   },
@@ -179,15 +179,15 @@
     "path": "/terapeuter/david-bringner",
     "score": 0.99,
     "performance": 1,
-    "accessibility": 0.94,
+    "accessibility": 0.97,
     "best-practices": 1,
     "seo": 1
   },
   {
     "path": "/terapeuter/emmy-jarden",
-    "score": 0.98,
+    "score": 0.99,
     "performance": 1,
-    "accessibility": 0.93,
+    "accessibility": 0.96,
     "best-practices": 1,
     "seo": 1
   }
