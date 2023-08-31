@@ -69,7 +69,7 @@
     "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
-    "seo": 0.92
+    "seo": 0.91
   },
   {
     "path": "/en/behandlingar/friskvardsbidrag-for-fysioterapi-eller-naprapati",
@@ -121,8 +121,24 @@
   },
   {
     "path": "/en/om",
+    "score": 0.97,
+    "performance": 0.89,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/en/om/cookies",
     "score": 0.98,
-    "performance": 0.9,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/en/om/personuppgiftspolicy",
+    "score": 1,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -133,7 +149,7 @@
     "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
-    "seo": 0.92
+    "seo": 0.91
   },
   {
     "path": "/en/terapeuter/andreas-palmqvist",
@@ -170,8 +186,24 @@
   {
     "path": "/om",
     "score": 0.97,
-    "performance": 0.91,
+    "performance": 0.9,
     "accessibility": 0.98,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/om/cookies",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/om/personuppgiftspolicy",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.97,
     "best-practices": 1,
     "seo": 1
   },
