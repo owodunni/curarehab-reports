@@ -1,8 +1,8 @@
 [
   {
     "path": "/",
-    "score": 1,
-    "performance": 0.99,
+    "score": 0.99,
+    "performance": 0.95,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -16,7 +16,7 @@
     "seo": 1
   },
   {
-    "path": "/artiklar/axelsmaerta-hur-du-hanterar-detta-besvaer",
+    "path": "/artiklar/axelsmaerta-varfoer-har-jag-ont",
     "score": 0.96,
     "performance": 1,
     "accessibility": 0.97,
@@ -40,18 +40,18 @@
     "seo": 0.85
   },
   {
-    "path": "/artiklar/ont-i-nacken",
+    "path": "/artiklar/ont-i-nacken-vad-beror-det-pa",
     "score": 0.95,
     "performance": 1,
     "accessibility": 0.96,
     "best-practices": 1,
-    "seo": 0.85
+    "seo": 0.83
   },
   {
-    "path": "/artiklar/ont-i-ryggen",
-    "score": 0.95,
+    "path": "/artiklar/ont-i-ryggen-hur-lindrar-jag-smaertan",
+    "score": 0.96,
     "performance": 1,
-    "accessibility": 0.96,
+    "accessibility": 0.97,
     "best-practices": 1,
     "seo": 0.85
   },
@@ -105,6 +105,14 @@
   },
   {
     "path": "/behandlingar/massage",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/behandlingar/medicinsk-akupunktur",
     "score": 1,
     "performance": 1,
     "accessibility": 1,
@@ -250,7 +258,7 @@
   {
     "path": "/om",
     "score": 0.97,
-    "performance": 0.9,
+    "performance": 0.91,
     "accessibility": 0.98,
     "best-practices": 1,
     "seo": 1
