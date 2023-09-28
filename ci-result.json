@@ -8,6 +8,46 @@
     "seo": 1
   },
   {
+    "path": "/artiklar",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/artiklar/axelsmaerta",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/artiklar/ont-i-hoeften",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/artiklar/ont-i-nacken",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 1,
+    "seo": 0.98
+  },
+  {
+    "path": "/artiklar/ont-i-ryggen",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
     "path": "/behandlingar",
     "score": 1,
     "performance": 1,
@@ -40,6 +80,14 @@
     "seo": 1
   },
   {
+    "path": "/behandlingar/medicinsk-akupunktur",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
     "path": "/behandlingar/naprapatbehandling",
     "score": 1,
     "performance": 1,
@@ -61,7 +109,7 @@
     "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
-    "seo": 0.98
+    "seo": 1
   },
   {
     "path": "/en/behandlingar/friskvardsbidrag-for-fysioterapi-eller-naprapati",
@@ -81,6 +129,14 @@
   },
   {
     "path": "/en/behandlingar/massage",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/en/behandlingar/medicinsk-akupunktur",
     "score": 1,
     "performance": 1,
     "accessibility": 1,
@@ -170,7 +226,7 @@
   {
     "path": "/om",
     "score": 0.97,
-    "performance": 0.91,
+    "performance": 0.9,
     "accessibility": 0.98,
     "best-practices": 1,
     "seo": 1
@@ -190,6 +246,14 @@
     "accessibility": 0.97,
     "best-practices": 1,
     "seo": 1
+  },
+  {
+    "path": "/skadekompassen",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.98,
+    "best-practices": 1,
+    "seo": 0.99
   },
   {
     "path": "/terapeuter",
