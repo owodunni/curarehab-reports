@@ -1,27 +1,27 @@
 [
   {
     "path": "/",
-    "score": 0.99,
-    "performance": 0.95,
+    "score": 0.95,
+    "performance": 0.81,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
   },
   {
     "path": "/artiklar",
-    "score": 1,
+    "score": 0.99,
     "performance": 1,
     "accessibility": 0.98,
     "best-practices": 1,
-    "seo": 1
+    "seo": 0.99
   },
   {
-    "path": "/artiklar/axelsmaerta-varfoer-har-jag-ont",
+    "path": "/artiklar/axelsmaerta",
     "score": 0.96,
-    "performance": 1,
-    "accessibility": 0.97,
+    "performance": 0.83,
+    "accessibility": 1,
     "best-practices": 1,
-    "seo": 0.85
+    "seo": 1
   },
   {
     "path": "/artiklar/friskvardsbidrag",
@@ -32,23 +32,31 @@
     "seo": 0.85
   },
   {
-    "path": "/artiklar/ont-i-hoeften-vanliga-orsaker-och-behandling",
-    "score": 0.96,
+    "path": "/artiklar/ont-i-hoeften",
+    "score": 1,
     "performance": 1,
-    "accessibility": 0.97,
+    "accessibility": 1,
     "best-practices": 1,
-    "seo": 0.85
+    "seo": 1
   },
   {
-    "path": "/artiklar/ont-i-nacken-vad-beror-det-pa",
-    "score": 0.95,
+    "path": "/artiklar/ont-i-nacken",
+    "score": 0.99,
     "performance": 1,
-    "accessibility": 0.96,
+    "accessibility": 0.98,
     "best-practices": 1,
-    "seo": 0.83
+    "seo": 0.98
   },
   {
-    "path": "/artiklar/ont-i-ryggen-hur-lindrar-jag-smaertan",
+    "path": "/artiklar/ont-i-ryggen",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/artiklar/shockwave-therapy-effective-treatment-with-pressure-waves-for-healing-and-pain-relief",
     "score": 0.96,
     "performance": 1,
     "accessibility": 0.97,
@@ -70,14 +78,6 @@
     "accessibility": 0.97,
     "best-practices": 1,
     "seo": 0.85
-  },
-  {
-    "path": "/artiklar/test-artikel-pa-svenska",
-    "score": 0.98,
-    "performance": 1,
-    "accessibility": 1,
-    "best-practices": 0.92,
-    "seo": 1
   },
   {
     "path": "/behandlingar",
@@ -258,7 +258,7 @@
   {
     "path": "/om",
     "score": 0.97,
-    "performance": 0.91,
+    "performance": 0.9,
     "accessibility": 0.98,
     "best-practices": 1,
     "seo": 1
@@ -313,8 +313,8 @@
   },
   {
     "path": "/terapeuter/emmy-jarden",
-    "score": 0.99,
-    "performance": 1,
+    "score": 0.98,
+    "performance": 0.94,
     "accessibility": 0.96,
     "best-practices": 1,
     "seo": 1
