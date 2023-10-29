@@ -1,8 +1,8 @@
 [
   {
     "path": "/",
-    "score": 0.95,
-    "performance": 0.81,
+    "score": 0.97,
+    "performance": 0.87,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -17,8 +17,8 @@
   },
   {
     "path": "/artiklar/axelsmaerta",
-    "score": 0.96,
-    "performance": 0.83,
+    "score": 1,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -104,6 +104,14 @@
     "seo": 1
   },
   {
+    "path": "/behandlingar/gravidmassage",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
     "path": "/behandlingar/massage",
     "score": 1,
     "performance": 1,
@@ -153,6 +161,14 @@
   },
   {
     "path": "/en/behandlingar/fysioterapi-sjukgymnastik",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/en/behandlingar/gravidmassage",
     "score": 1,
     "performance": 1,
     "accessibility": 1,
@@ -313,8 +329,8 @@
   },
   {
     "path": "/terapeuter/emmy-jarden",
-    "score": 0.98,
-    "performance": 0.94,
+    "score": 0.99,
+    "performance": 1,
     "accessibility": 0.96,
     "best-practices": 1,
     "seo": 1
