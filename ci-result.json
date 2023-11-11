@@ -1,8 +1,8 @@
 [
   {
     "path": "/",
-    "score": 0.97,
-    "performance": 0.87,
+    "score": 0.99,
+    "performance": 0.94,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -22,14 +22,6 @@
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
-  },
-  {
-    "path": "/artiklar/friskvardsbidrag",
-    "score": 0.96,
-    "performance": 1,
-    "accessibility": 0.97,
-    "best-practices": 1,
-    "seo": 0.85
   },
   {
     "path": "/artiklar/ont-i-hoeften",
@@ -57,27 +49,11 @@
   },
   {
     "path": "/artiklar/shockwave-therapy-effective-treatment-with-pressure-waves-for-healing-and-pain-relief",
-    "score": 0.96,
+    "score": 1,
     "performance": 1,
-    "accessibility": 0.97,
+    "accessibility": 1,
     "best-practices": 1,
-    "seo": 0.85
-  },
-  {
-    "path": "/artiklar/stoetvagsbehandling",
-    "score": 0.96,
-    "performance": 1,
-    "accessibility": 0.97,
-    "best-practices": 1,
-    "seo": 0.85
-  },
-  {
-    "path": "/artiklar/tens",
-    "score": 0.96,
-    "performance": 1,
-    "accessibility": 0.97,
-    "best-practices": 1,
-    "seo": 0.85
+    "seo": 1
   },
   {
     "path": "/behandlingar",
@@ -105,11 +81,11 @@
   },
   {
     "path": "/behandlingar/gravidmassage",
-    "score": 1,
+    "score": 0.98,
     "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
-    "seo": 1
+    "seo": 0.92
   },
   {
     "path": "/behandlingar/massage",
@@ -210,7 +186,7 @@
   {
     "path": "/en/om",
     "score": 0.98,
-    "performance": 0.9,
+    "performance": 0.91,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -274,7 +250,7 @@
   {
     "path": "/om",
     "score": 0.97,
-    "performance": 0.9,
+    "performance": 0.91,
     "accessibility": 0.98,
     "best-practices": 1,
     "seo": 1
