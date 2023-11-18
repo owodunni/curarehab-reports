@@ -1,26 +1,34 @@
 [
   {
     "path": "/",
-    "score": 0.99,
-    "performance": 0.94,
+    "score": 0.95,
+    "performance": 0.78,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
   },
   {
     "path": "/artiklar",
-    "score": 0.99,
-    "performance": 1,
+    "score": 0.94,
+    "performance": 0.79,
     "accessibility": 0.98,
     "best-practices": 1,
     "seo": 0.99
   },
   {
     "path": "/artiklar/axelsmaerta",
-    "score": 1,
-    "performance": 1,
+    "score": 0.95,
+    "performance": 0.79,
     "accessibility": 1,
     "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/artiklar/naprapat-eller-kiropraktor",
+    "score": 0.93,
+    "performance": 0.79,
+    "accessibility": 1,
+    "best-practices": 0.92,
     "seo": 1
   },
   {
@@ -56,6 +64,14 @@
     "seo": 1
   },
   {
+    "path": "/artiklar/vad-goer-en-naprapat",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
     "path": "/behandlingar",
     "score": 1,
     "performance": 1,
@@ -81,11 +97,11 @@
   },
   {
     "path": "/behandlingar/gravidmassage",
-    "score": 0.98,
+    "score": 1,
     "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
-    "seo": 0.92
+    "seo": 1
   },
   {
     "path": "/behandlingar/massage",
@@ -186,7 +202,7 @@
   {
     "path": "/en/om",
     "score": 0.98,
-    "performance": 0.91,
+    "performance": 0.9,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -250,7 +266,7 @@
   {
     "path": "/om",
     "score": 0.97,
-    "performance": 0.91,
+    "performance": 0.9,
     "accessibility": 0.98,
     "best-practices": 1,
     "seo": 1
