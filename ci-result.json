@@ -9,14 +9,30 @@
   },
   {
     "path": "/artiklar",
-    "score": 1,
+    "score": 0.99,
     "performance": 1,
     "accessibility": 0.98,
+    "best-practices": 1,
+    "seo": 0.99
+  },
+  {
+    "path": "/artiklar/akuttid-till-naprapat",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
     "best-practices": 1,
     "seo": 1
   },
   {
     "path": "/artiklar/axelsmaerta",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/artiklar/naprapat-eller-kiropraktor",
     "score": 1,
     "performance": 1,
     "accessibility": 1,
@@ -48,12 +64,20 @@
     "seo": 1
   },
   {
-    "path": "/artiklar/skillnaden-mellan-naprapat-och-kiropraktor",
-    "score": 0.94,
+    "path": "/artiklar/studentrabatt-pa-naprapati-fysioterapi-och-massage",
+    "score": 1,
     "performance": 1,
-    "accessibility": 0.97,
-    "best-practices": 0.92,
-    "seo": 0.85
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/artiklar/vad-goer-en-naprapat",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
   },
   {
     "path": "/behandlingar",
@@ -83,7 +107,7 @@
     "path": "/behandlingar/gravidmassage",
     "score": 1,
     "performance": 1,
-    "accessibility": 1,
+    "accessibility": 0.98,
     "best-practices": 1,
     "seo": 1
   },
