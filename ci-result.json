@@ -32,6 +32,14 @@
     "seo": 1
   },
   {
+    "path": "/artiklar/friskvardsbidrag-hos-naprapat-eller-fysioterapeut",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
     "path": "/artiklar/naprapat-eller-kiropraktor",
     "score": 1,
     "performance": 1,
@@ -46,14 +54,6 @@
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
-  },
-  {
-    "path": "/artiklar/ont-i-nacken",
-    "score": 0.99,
-    "performance": 1,
-    "accessibility": 0.98,
-    "best-practices": 1,
-    "seo": 0.98
   },
   {
     "path": "/artiklar/ont-i-ryggen",
