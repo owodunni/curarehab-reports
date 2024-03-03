@@ -1,8 +1,8 @@
 [
   {
     "path": "/",
-    "score": 0.98,
-    "performance": 0.93,
+    "score": 1,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -98,7 +98,7 @@
   {
     "path": "/behandlingar/fysioterapi-sjukgymnastik",
     "score": 1,
-    "performance": 0.98,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -282,7 +282,7 @@
   {
     "path": "/om/cookies",
     "score": 0.98,
-    "performance": 0.99,
+    "performance": 1,
     "accessibility": 0.92,
     "best-practices": 1,
     "seo": 1
@@ -305,8 +305,8 @@
   },
   {
     "path": "/terapeuter",
-    "score": 0.97,
-    "performance": 0.95,
+    "score": 0.98,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.92
