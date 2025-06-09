@@ -1,8 +1,8 @@
 [
   {
     "path": "/",
-    "score": 0.96,
-    "performance": 0.88,
+    "score": 0.97,
+    "performance": 0.91,
     "accessibility": 0.96,
     "best-practices": 1,
     "seo": 1
@@ -17,30 +17,22 @@
   },
   {
     "path": "/artiklar/akuttid-till-naprapat",
-    "score": 0.93,
-    "performance": 0.89,
+    "score": 0.95,
+    "performance": 0.96,
     "accessibility": 1,
     "best-practices": 0.82,
     "seo": 1
   },
   {
-    "path": "/artiklar/naprapat-eller-kiropraktor",
-    "score": 0.93,
-    "performance": 0.9,
+    "path": "/artiklar/axelsmaerta",
+    "score": 0.9,
+    "performance": 0.77,
     "accessibility": 1,
     "best-practices": 0.82,
     "seo": 1
   },
   {
-    "path": "/artiklar/ont-i-knaeet-vanliga-orsaker-och-behandling",
-    "score": 0.92,
-    "performance": 0.87,
-    "accessibility": 0.98,
-    "best-practices": 0.82,
-    "seo": 1
-  },
-  {
-    "path": "/artiklar/ont-i-ryggen",
+    "path": "/artiklar/friskvardsbidrag-hos-naprapat-eller-fysioterapeut",
     "score": 0.98,
     "performance": 0.9,
     "accessibility": 1,
@@ -48,119 +40,87 @@
     "seo": 1
   },
   {
-    "path": "/artiklar/vad-goer-en-omt-fysioterapeut",
-    "score": 0.94,
-    "performance": 0.94,
+    "path": "/artiklar/naprapat-eller-kiropraktor",
+    "score": 0.99,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/artiklar/ont-i-hoeften",
+    "score": 0.91,
+    "performance": 0.82,
+    "accessibility": 1,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/artiklar/ont-i-nacken",
+    "score": 0.91,
+    "performance": 0.86,
     "accessibility": 0.98,
     "best-practices": 0.82,
     "seo": 1
   },
   {
-    "path": "/behandlingar/friskvardsbidrag-for-fysioterapi-eller-naprapati",
-    "score": 0.97,
-    "performance": 0.87,
+    "path": "/artiklar/ont-i-ryggen",
+    "score": 0.99,
+    "performance": 0.95,
     "accessibility": 1,
     "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/artiklar/vad-goer-en-naprapat",
+    "score": 0.91,
+    "performance": 0.84,
+    "accessibility": 1,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/behandlingar",
+    "score": 0.93,
+    "performance": 0.75,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/behandlingar/friskvardsbidrag-for-fysioterapi-eller-naprapati",
+    "score": 0.99,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/behandlingar/fysioterapi-sjukgymnastik",
+    "score": 0.92,
+    "performance": 0.85,
+    "accessibility": 1,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/behandlingar/gravidmassage",
+    "score": 0.91,
+    "performance": 0.85,
+    "accessibility": 0.98,
+    "best-practices": 0.82,
     "seo": 1
   },
   {
     "path": "/behandlingar/massage",
-    "score": 0.94,
-    "performance": 0.95,
+    "score": 0.99,
+    "performance": 0.94,
     "accessibility": 1,
-    "best-practices": 0.82,
-    "seo": 1
-  },
-  {
-    "path": "/boka",
-    "score": 0.8,
-    "performance": 0.55,
-    "accessibility": 0.87,
-    "best-practices": 0.93,
-    "seo": 0.83
-  },
-  {
-    "path": "/en/behandlingar",
-    "score": 0.96,
-    "performance": 0.88,
-    "accessibility": 0.96,
     "best-practices": 1,
     "seo": 1
   },
   {
-    "path": "/en/behandlingar/friskvardsbidrag-for-fysioterapi-eller-naprapati",
-    "score": 0.94,
-    "performance": 0.95,
-    "accessibility": 1,
-    "best-practices": 0.82,
-    "seo": 1
-  },
-  {
-    "path": "/en/behandlingar/fysioterapi-sjukgymnastik",
-    "score": 0.94,
-    "performance": 0.94,
-    "accessibility": 1,
-    "best-practices": 0.82,
-    "seo": 1
-  },
-  {
-    "path": "/en/behandlingar/gravidmassage",
-    "score": 0.93,
-    "performance": 0.88,
-    "accessibility": 1,
-    "best-practices": 0.82,
-    "seo": 1
-  },
-  {
-    "path": "/en/behandlingar/massage",
-    "score": 0.9,
-    "performance": 0.76,
-    "accessibility": 1,
-    "best-practices": 0.82,
-    "seo": 1
-  },
-  {
-    "path": "/en/behandlingar/medicinsk-akupunktur",
-    "score": 0.94,
-    "performance": 0.94,
-    "accessibility": 1,
-    "best-practices": 0.82,
-    "seo": 1
-  },
-  {
-    "path": "/en/behandlingar/naprapatbehandling",
-    "score": 0.92,
-    "performance": 0.86,
-    "accessibility": 1,
-    "best-practices": 0.82,
-    "seo": 1
-  },
-  {
-    "path": "/en/boka",
-    "score": 0.79,
-    "performance": 0.53,
-    "accessibility": 0.87,
-    "best-practices": 0.93,
-    "seo": 0.83
-  },
-  {
-    "path": "/en/hitta",
-    "score": 0.92,
-    "performance": 0.89,
-    "accessibility": 0.96,
-    "best-practices": 0.82,
-    "seo": 1
-  },
-  {
-    "path": "/en/om",
-    "score": 0.89,
-    "performance": 0.8,
-    "accessibility": 1,
-    "best-practices": 0.82,
-    "seo": 0.92
-  },
-  {
-    "path": "/en/om/cookies",
+    "path": "/behandlingar/medicinsk-akupunktur",
     "score": 0.91,
     "performance": 0.81,
     "accessibility": 1,
@@ -168,7 +128,47 @@
     "seo": 1
   },
   {
-    "path": "/en/om/personuppgiftspolicy",
+    "path": "/behandlingar/naprapatbehandling",
+    "score": 0.96,
+    "performance": 0.82,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/boka",
+    "score": 0.81,
+    "performance": 0.6,
+    "accessibility": 0.87,
+    "best-practices": 0.93,
+    "seo": 0.83
+  },
+  {
+    "path": "/en",
+    "score": 0.94,
+    "performance": 0.78,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/en/behandlingar",
+    "score": 0.96,
+    "performance": 0.86,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/en/behandlingar/friskvardsbidrag-for-fysioterapi-eller-naprapati",
+    "score": 0.95,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/en/behandlingar/fysioterapi-sjukgymnastik",
     "score": 0.97,
     "performance": 0.89,
     "accessibility": 1,
@@ -176,33 +176,105 @@
     "seo": 1
   },
   {
-    "path": "/en/terapeuter",
-    "score": 0.95,
+    "path": "/en/behandlingar/gravidmassage",
+    "score": 0.91,
+    "performance": 0.83,
+    "accessibility": 1,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/en/behandlingar/massage",
+    "score": 0.94,
+    "performance": 0.94,
+    "accessibility": 1,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/en/behandlingar/medicinsk-akupunktur",
+    "score": 0.93,
     "performance": 0.89,
+    "accessibility": 1,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/en/behandlingar/naprapatbehandling",
+    "score": 0.92,
+    "performance": 0.87,
+    "accessibility": 1,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/en/boka",
+    "score": 0.82,
+    "performance": 0.63,
+    "accessibility": 0.87,
+    "best-practices": 0.93,
+    "seo": 0.83
+  },
+  {
+    "path": "/en/hitta",
+    "score": 0.98,
+    "performance": 0.96,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/en/om",
+    "score": 0.92,
+    "performance": 0.85,
+    "accessibility": 1,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/en/om/cookies",
+    "score": 0.93,
+    "performance": 0.88,
+    "accessibility": 1,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/en/om/personuppgiftspolicy",
+    "score": 0.98,
+    "performance": 0.9,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/en/terapeuter",
+    "score": 0.94,
+    "performance": 0.83,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.92
   },
   {
     "path": "/en/terapeuter/andreas-palmqvist",
-    "score": 0.91,
-    "performance": 0.86,
+    "score": 0.93,
+    "performance": 0.94,
     "accessibility": 0.96,
     "best-practices": 0.82,
     "seo": 1
   },
   {
     "path": "/en/terapeuter/david-bringner",
-    "score": 0.85,
-    "performance": 0.6,
+    "score": 0.96,
+    "performance": 0.87,
     "accessibility": 0.96,
-    "best-practices": 0.82,
+    "best-practices": 1,
     "seo": 1
   },
   {
     "path": "/en/terapeuter/emmy-jarden",
-    "score": 0.91,
-    "performance": 0.87,
+    "score": 0.93,
+    "performance": 0.94,
     "accessibility": 0.96,
     "best-practices": 0.82,
     "seo": 1
@@ -216,27 +288,83 @@
     "seo": 0.92
   },
   {
+    "path": "/hitta",
+    "score": 0.93,
+    "performance": 0.94,
+    "accessibility": 0.94,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
     "path": "/om",
-    "score": 0.94,
+    "score": 0.89,
     "performance": 0.77,
+    "accessibility": 0.98,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/om/cookies",
+    "score": 0.96,
+    "performance": 0.83,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/om/personuppgiftspolicy",
+    "score": 0.92,
+    "performance": 0.89,
+    "accessibility": 0.96,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/skadekompassen",
+    "score": 0.96,
+    "performance": 0.87,
     "accessibility": 0.98,
     "best-practices": 1,
     "seo": 1
   },
   {
+    "path": "/terapeuter",
+    "score": 0.97,
+    "performance": 0.95,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
     "path": "/terapeuter/andreas-palmqvist",
     "score": 0.95,
-    "performance": 0.84,
+    "performance": 0.85,
     "accessibility": 0.96,
     "best-practices": 1,
     "seo": 1
   },
   {
-    "path": "/terapeuter/linus-heedman",
+    "path": "/terapeuter/david-bringner",
     "score": 0.96,
-    "performance": 0.91,
-    "accessibility": 0.94,
+    "performance": 0.87,
+    "accessibility": 0.96,
     "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/terapeuter/emmy-jarden",
+    "score": 0.92,
+    "performance": 0.93,
+    "accessibility": 0.94,
+    "best-practices": 0.82,
+    "seo": 1
+  },
+  {
+    "path": "/terapeuter/linus-heedman",
+    "score": 0.89,
+    "performance": 0.82,
+    "accessibility": 0.94,
+    "best-practices": 0.82,
     "seo": 1
   }
 ]
